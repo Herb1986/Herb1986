@@ -5,7 +5,7 @@
 - 📫 How to reach me? Herb1986@gmail.com  
 - 😄 Pronouns = Pronomen in german
 - ⚡ Fun fact: My english got verry bad, at my work as a traindriver in germany you should better understand turkisch than german or english.
-- 
+-  das ganze ist auch nur ein test für mich um zu sehen was ich mit der Plattform für möglichkeiten habe.
 
 <!---
 Herb1986/Herb1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
